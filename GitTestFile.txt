@@ -3,4 +3,5 @@ Changing the content of the File and checking
 
 Adding the Contents for the newly created Branch
 
+New changes done by branch2
 Changes from Branch1 
