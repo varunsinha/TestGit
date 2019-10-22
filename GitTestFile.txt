@@ -5,3 +5,8 @@ Adding the Contents for the newly created Branch
 
 New changes done by branch2
 Changes from Branch1 
+
+
+Added a new line piece of code now.
+
+I will change something on the same branch.
